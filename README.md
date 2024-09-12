@@ -1,6 +1,6 @@
 # ORBAT Mapper scenario hosting test
 
-The purpose of this repository is to show how to host scenarios for use with [https://orbat-mapper.app](https://orbat-mapper.app). ORBAT Mapper does not 
+The purpose of [this repository](https://github.com/orbat-mapper/scenario-hosting-test) is to show how to host scenarios for use with [https://orbat-mapper.app](https://orbat-mapper.app). ORBAT Mapper does not 
 store scenarios on a server, but you can import scenarios from URLs and create a sharable link: 
 
 ![image](https://github.com/user-attachments/assets/03e44248-e2df-4ee7-9eed-1ae5b0896311)
