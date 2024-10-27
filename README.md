@@ -23,5 +23,6 @@ List of scenarios:
 
 List of scenarios:
 - [Framland-Arnland-example.json](Framland-Arnland-example.json)
+- [Scenario merge testing1.json](Scenario merge testing1.json)
 
 When the site is published the README will be rendered with links that you can copy and paste into ORBAT Mapper. 
